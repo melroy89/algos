@@ -44,6 +44,8 @@ Read through our [Contribution Guidelines](CONTRIBUTING.md) before you contribut
 
 We are on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.im/TheAlgorithms)! Community channels are a great way for you to ask questions and get help. Please join us!
 
-## List of Algorithms
+## List of Algo
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+123
+15
